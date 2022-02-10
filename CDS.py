@@ -1,4 +1,4 @@
-
+# author: Dante
 import numpy as np
 from scipy.optimize import newton
 import matplotlib.pyplot as plt
